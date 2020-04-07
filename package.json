@@ -2,10 +2,9 @@
   "name": "eos-server",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
   "scripts": {
     "build": "echo \"No build specified\" && exit 0",
-    "start": "echo \"Error: no start specified\" && exit 1"
+    "start": "node src/index.js"
   },
   "repository": {
     "type": "git",
